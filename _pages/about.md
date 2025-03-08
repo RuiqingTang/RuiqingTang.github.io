@@ -17,5 +17,7 @@ I don’t consider myself a dedicated algorithm developer, but fortunately, I po
 
 I think [this outcome](https://youtu.be/z8XGXPcp_5k?si=hWQLo2531hkO04-N) is quite impressive—using music to generate 3D dance motions (SMPL data), then converting them into VMD animations (or alternatively, FBX or BVH formats), and finally driving the PMX model to animate. I have also published it on other platforms: [rednotes](https://www.xiaohongshu.com/discovery/item/67cbdd36000000000e005416?source=webshare&xhsshare=pc_web&xsec_token=ABT23s92SHRGg6EHT0gRCOq_UYBaztvinbD5yuVOpyJJs=&xsec_source=pc_share), [bilibili](https://www.bilibili.com/video/BV1DS99Y2Ei8/?share_source=copy_web&vd_source=2cb3b7dea2b9d6e5fd1c199158d16e4f).
 
+You can find my CV here: [Ruiqing Tang's Curriculum Vitae](../assets/RuiqingTang_CV.pdf).
+
 [Email](mailto:tangruiqing123@gmail.com) / [Github](https://github.com/RuiqingTang) / [Wechat](../images/wechat.png) 
 
