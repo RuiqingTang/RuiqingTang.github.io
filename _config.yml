@@ -22,7 +22,7 @@ repository               : "RuiqingTang/RuiqingTang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/avatar.png"
+  avatar           : "avatar.png"
   name             : "Ruiqing Tang"
   pronouns         : # example: "she/her"  
   bio              : "A programmer will write code for coffee"
