@@ -36,7 +36,7 @@ My research interests lies at the intersection of machine learning, computer vis
 ------
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="../images/ustb1.png" alt="USTB Logo" style="width: 120px; height: 120px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; font-size: 1.4em;">
+  <div style="min-width: 400px; ">
     <strong>University of Science and Technology, Beijing (USTB)</strong><br>
     <em>Master's Degree</em> &nbsp;|&nbsp; 2023 – 2026<br>
     Major: Communication Engineering 
@@ -45,7 +45,7 @@ My research interests lies at the intersection of machine learning, computer vis
 
 <div style="display: flex; align-items: flex-start;">
   <img src="../images/ustb1.png" alt="USTB Logo" style="width: 120px; height: 120px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; font-size: 1.4em;">
+  <div style="min-width: 400px;">
     <strong>University of Science and Technology, Beijing (USTB)</strong><br>
     <em>Bachelor's Degree</em> &nbsp;|&nbsp; 2019 – 2023<br>
     Major: Communication Engineering
@@ -56,7 +56,7 @@ My research interests lies at the intersection of machine learning, computer vis
 ------
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="../images/yj.png" alt="Yaww Logo" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; font-size: 1.4em;">
+  <div style="min-width: 400px; ">
     <strong><a href="https://www.yuanjingos.com/">YuanJing, Alibaba Group</a> , Beijing, China</strong> <br>
     <em>3D AIGC Internship</em> &nbsp;|&nbsp; 2026.03 – present<br>
     <!-- Major: Communication Engineering -->
@@ -65,7 +65,7 @@ My research interests lies at the intersection of machine learning, computer vis
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="../images/yaww.png" alt="Yaww Logo" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; font-size: 1.4em;">
+  <div style="min-width: 400px; ">
     <strong><a href="https://www.aitutor100.com/">AiShiWeiLai AI Research</a> , Beijing, China</strong><br>
     <em>Digital Human Internship</em> &nbsp;|&nbsp; 2025.07 – 2025.12<br>
     <!-- Major: Communication Engineering -->
@@ -74,7 +74,7 @@ My research interests lies at the intersection of machine learning, computer vis
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="../images/cubevi.png" alt="CubeVI Logo" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; font-size: 1.4em;">
+  <div style="min-width: 400px; ">
     <strong><a href="https://www.openstageai.com/">Cube Vision Intelligence, CubeVi</a> , Beijing, China</strong><br>
     <em>AIGC Internship</em> &nbsp;|&nbsp; 2024.05 – 2025.06<br>
     <!-- Major: Communication Engineering  -->
@@ -84,7 +84,7 @@ My research interests lies at the intersection of machine learning, computer vis
 ## Publications
 ------
 <div>
-  <img style="float: left" src="../images/measurement.png" width="175px">
+  <img style="float: left" src="../images/measurement.png" width="125px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -116,7 +116,7 @@ My research interests lies at the intersection of machine learning, computer vis
 <br>
 
 <div>
-  <img style="float: left" src="../images/TIM.png" width="175px">
+  <img style="float: left" src="../images/TIM.png" width="125px">
 </div>
 <div>
   <p style="line-height:125%">
