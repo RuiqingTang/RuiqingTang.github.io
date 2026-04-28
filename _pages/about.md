@@ -36,19 +36,19 @@ My research interests lies at the intersection of machine learning, computer vis
 ------
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="../images/ustb1.png" alt="USTB Logo" style="width: 120px; height: 120px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px; ">
-    <strong>University of Science and Technology, Beijing (USTB)</strong><br>
-    <em>Master's Degree</em> &nbsp;|&nbsp; 2023 – 2026<br>
-    Major: Communication Engineering 
+  <div style="min-width: 400px; line-height: 1.6;">
+    <strong style="display: block; margin-bottom: 6px;">University of Science and Technology, Beijing (USTB)</strong>
+    <em style="display: block; margin-bottom: 6px;">Master's Degree &nbsp;|&nbsp; 2023 – 2026</em>
+    <span style="display: block;">Major: Communication Engineering</span>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
   <img src="../images/ustb1.png" alt="USTB Logo" style="width: 120px; height: 120px; object-fit: contain; margin-right: 20px; flex-shrink: 0;">
-  <div style="min-width: 400px;">
-    <strong>University of Science and Technology, Beijing (USTB)</strong><br>
-    <em>Bachelor's Degree</em> &nbsp;|&nbsp; 2019 – 2023<br>
-    Major: Communication Engineering
+  <div style="min-width: 400px; line-height: 1.6;">
+    <strong style="display: block; margin-bottom: 6px;">University of Science and Technology, Beijing (USTB)</strong>
+    <em style="display: block; margin-bottom: 6px;">Bachelor's Degree &nbsp;|&nbsp; 2019 – 2023</em>
+    <span style="display: block;">Major: Communication Engineering</span>
   </div>
 </div>
 
