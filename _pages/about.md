@@ -96,8 +96,8 @@ My research interests lies at the intersection of machine learning, computer vis
       Isaack Kamanga, 
       <b>Ruiqing Tang</b>, 
       Zhi Wang,
-      Guo Zhu
-      Fei Liu
+      Guo Zhu,
+      Fei Liu,
       Xian Zhou
       <br>
     </font> 
@@ -153,7 +153,7 @@ My research interests lies at the intersection of machine learning, computer vis
 
 <br>
 
-You can find my CV here: [Ruiqing Tang's Curriculum Vitae](../assets/RuiqingTang_CV.pdf).
+You can find my CV here: [Ruiqing Tang's Curriculum Vitae](../assets/RuiqingTang_Eng.pdf).
 
 [Email](mailto:tangruiqing123@gmail.com) / [Github](https://github.com/RuiqingTang) / [Wechat](../images/wechat.png) 
 
