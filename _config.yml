@@ -26,8 +26,9 @@ author:
   name             : "Ruiqing Tang"
   pronouns         : # example: "she/her"  
   bio              : "A programmer will write code for coffee"
-  location         : "Beijing, China"
-  employer         : "USTB"
+  location         : "Shanghai, China"
+  employer         : "YuanJing"
+  employer_url     : "https://www.yuanjingos.com/"
   uri              : # URL
   email            : "tangruiqing123@gmail.com" 
 
