@@ -151,6 +151,7 @@ redirect_from:
 
 <h2 class="hp-heading"><svg class="hp-sakura" viewBox="0 0 24 24" aria-hidden="true"><g fill="#ff9dc2"><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(72 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(144 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(216 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(288 12 12)"/></g><circle cx="12" cy="12" r="1.6" fill="#ffd66b"/></svg>News</h2>
 <ul class="hp-news">
+  <li><span class="hp-news-date">2026.08</span><span>One paper accepted to <a href="https://doi.org/10.1016/j.yofte.2026.104780">Optical Fiber Technology</a>.</span></li>
   <li><span class="hp-news-date">2026.08</span><span>One paper accepted to <a href="https://doi.org/10.1364/OE.610520">Optics Express</a>.</span></li>
   <li><span class="hp-news-date">2026.08</span><span>One paper accepted to <a href="https://doi.org/10.1109/JSEN.2026.3709836">IEEE Sensors Journal</a>.</span></li>
   <li><span class="hp-news-date">2026.03</span><span>One paper accepted to <a href="https://doi.org/10.1109/TIM.2026.3682837">IEEE Transactions on Instrumentation and Measurement</a>.</span></li>
@@ -210,6 +211,16 @@ redirect_from:
 </div>
 
 <h2 class="hp-heading"><svg class="hp-sakura" viewBox="0 0 24 24" aria-hidden="true"><g fill="#ff9dc2"><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(72 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(144 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(216 12 12)"/><path d="M12 2.4c1.7 0 2.9 2.3 2.4 4.6-.4 1.7-1.3 2.9-2.4 2.9s-2-1.2-2.4-2.9C9 4.7 10.3 2.4 12 2.4z" transform="rotate(288 12 12)"/></g><circle cx="12" cy="12" r="1.6" fill="#ffd66b"/></svg>Publications</h2>
+
+<div class="hp-pub">
+  <a class="hp-pub-logo" href="https://doi.org/10.1016/j.yofte.2026.104780"><img src="{{ '/images/elsevier.png' | relative_url }}" alt="Elsevier logo" loading="lazy"></a>
+  <div class="hp-pub-body">
+    <p class="hp-pub-title">Automatic hydraulic fracture hit events recognition with low-frequency DAS data based on object detection</p>
+    <p class="hp-pub-authors">M. K. Shuvo, X. Huang, F. Liu, G. Zhu, <strong>R. Tang</strong>, K. Zhang, and X. Zhou</p>
+    <p class="hp-pub-venue"><span class="hp-badge" style="--hp-c:#ff6c00;">Optical Fiber Technology</span><span>vol. 103, Art. no. 104780, 2026</span></p>
+    <div class="hp-links"><a class="hp-btn" href="https://doi.org/10.1016/j.yofte.2026.104780"><svg class="hp-ico" viewBox="0 0 384 512" aria-hidden="true"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>Paper</a></div>
+  </div>
+</div>
 
 <div class="hp-pub">
   <a class="hp-pub-logo" href="https://doi.org/10.1364/OE.610520">
